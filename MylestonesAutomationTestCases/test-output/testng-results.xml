@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-02T14:44:52Z" name="Suite" finished-at="2021-12-02T14:47:26Z" duration-ms="154411">
+    <groups>
+    </groups>
+    <test started-at="2021-12-02T14:44:52Z" name="Test" finished-at="2021-12-02T14:47:26Z" duration-ms="154411">
+      <class name="MylestonesTask2.MylestonesAutomationTestCases.ForgetPass">
+        <test-method is-config="true" signature="initaialise()[pri:0, instance:MylestonesTask2.MylestonesAutomationTestCases.ForgetPass@6892b3b6]" started-at="2021-12-02T20:14:52Z" name="initaialise" finished-at="2021-12-02T20:15:14Z" duration-ms="22151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initaialise -->
+        <test-method is-config="true" signature="initaialise()[pri:0, instance:MylestonesTask2.MylestonesAutomationTestCases.Login@63376bed]" started-at="2021-12-02T20:15:14Z" name="initaialise" finished-at="2021-12-02T20:15:40Z" duration-ms="26655" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initaialise -->
+        <test-method is-config="true" signature="initaialise()[pri:0, instance:MylestonesTask2.MylestonesAutomationTestCases.Register@11392934]" started-at="2021-12-02T20:15:40Z" name="initaialise" finished-at="2021-12-02T20:16:09Z" duration-ms="28792" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initaialise -->
+        <test-method signature="RegistrationMethod()[pri:0, instance:MylestonesTask2.MylestonesAutomationTestCases.ForgetPass@6892b3b6]" started-at="2021-12-02T20:16:52Z" name="RegistrationMethod" finished-at="2021-12-02T20:17:24Z" duration-ms="32285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistrationMethod -->
+        <test-method is-config="true" signature="CloseWindow()[pri:0, instance:MylestonesTask2.MylestonesAutomationTestCases.ForgetPass@6892b3b6]" started-at="2021-12-02T20:17:24Z" name="CloseWindow" finished-at="2021-12-02T20:17:26Z" duration-ms="1398" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseWindow -->
+        <test-method is-config="true" signature="CloseWindow()[pri:0, instance:MylestonesTask2.MylestonesAutomationTestCases.Login@63376bed]" started-at="2021-12-02T20:17:26Z" name="CloseWindow" finished-at="2021-12-02T20:17:26Z" duration-ms="255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseWindow -->
+        <test-method is-config="true" signature="CloseWindow()[pri:0, instance:MylestonesTask2.MylestonesAutomationTestCases.Register@11392934]" started-at="2021-12-02T20:17:26Z" name="CloseWindow" finished-at="2021-12-02T20:17:26Z" duration-ms="198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseWindow -->
+      </class> <!-- MylestonesTask2.MylestonesAutomationTestCases.ForgetPass -->
+      <class name="MylestonesTask2.MylestonesAutomationTestCases.Register">
+        <test-method signature="RegistrationMethod()[pri:0, instance:MylestonesTask2.MylestonesAutomationTestCases.Register@11392934]" started-at="2021-12-02T20:16:31Z" name="RegistrationMethod" finished-at="2021-12-02T20:16:52Z" duration-ms="21071" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistrationMethod -->
+      </class> <!-- MylestonesTask2.MylestonesAutomationTestCases.Register -->
+      <class name="MylestonesTask2.MylestonesAutomationTestCases.Login">
+        <test-method signature="LoginMethod()[pri:0, instance:MylestonesTask2.MylestonesAutomationTestCases.Login@63376bed]" started-at="2021-12-02T20:16:09Z" name="LoginMethod" finished-at="2021-12-02T20:16:31Z" duration-ms="21459" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginMethod -->
+      </class> <!-- MylestonesTask2.MylestonesAutomationTestCases.Login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
